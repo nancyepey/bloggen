@@ -1,0 +1,27 @@
+{
+    "name": "epey/bloggen",
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+
+    "autoload":{
+
+        "classmap": [
+
+            "classes"
+            
+        ]
+
+    },
+
+    "authors": [
+        {
+            "name": "Manu Dev",
+            "email": "manudev02370@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
