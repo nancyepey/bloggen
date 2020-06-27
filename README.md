@@ -25,3 +25,10 @@ Home page seen in the grid layout
 ### Manage Posts
 
 <img src="https://github.com/nancyepey/bloggen/blob/master/images/bloggen6.PNG" alt="grid homepage">
+
+# NOTE
+
+## The Hack is just my php files with little php code in it
+It's just github security 
+
+P.S Application is still in development
